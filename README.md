@@ -9,7 +9,7 @@ Busco minha primeira oportunidade profissional para crescer, aprender e contribu
 Estou aberto a desafios que me permitam expandir meu conhecimento e colaborar com equipes comprometidas com qualidade e inovação.
 
 ### 🛠 Tech Stack ⚙️
-- **Languages:** HTML, CSS, JavaScript 💻  
+- **Languages:** React, TypeScript, JavaScript 💻  
 - **Web:** Website creation, responsive layouts, basic SEO 🌐  
 - **Tools:** Git, GitHub, VS Code, Canva.🧰  
 - **Soft Skills:** Clean Code, UX/UI basics, organization, problem-solving 🧠
